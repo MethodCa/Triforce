@@ -1,6 +1,6 @@
 # Triforce
 
- OpenGL 3D model drawing using matrix transformation functions using GLEW[^1] and GLFW[^2]
+ OpenGL 3D model drawing using matrix transformation functions using GLEW[^1] to help manage OpenGL extensions and GLFW[^2] for window managemend with OpenGL contexts and managing user input.
 
 ![triforce_optimised](https://github.com/MethodCa/Triforce/assets/15893276/260cd46e-1efd-4c96-b1d7-461d1f371fa9)
 
